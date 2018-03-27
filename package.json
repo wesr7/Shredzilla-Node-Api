@@ -1,0 +1,21 @@
+{
+  "name": "shredapi",
+  "version": "1.0.0",
+  "description": "An Api For Shredzilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesr7/Shredzilla-Node-Api.git"
+  },
+  "author": "Wes Rodgers",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
